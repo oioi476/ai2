@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {}
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-    label[0] : {"texts" : ["중국식 냉면은 맛있어"], "images":[https://cdn.crowdpic.net/detail-thumb/thumb_d_34984726A089DC33CF72AC20674807C1.jpg]},
-    label[1] : {"texts" : ["짜장면은 맛있어"], "images":[https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp]},
-    label[2] : {"texts" : ["짬뽕은 맛있어"], "images":[https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp]},
-    label[3] : {"texts" : ["탕수육은 맛있어"], "images":[https://i.namu.wiki/i/DQPzlCdDvbadZasufp6VhKSLDPHU4YlA1f9GbY2fP9nMvjNOSE32JZxL_ysj2duhcUtcWo-cGQvO_qS3rXctJw.webp]},
+    label[0] : {"texts" : ["중국식 냉면은 맛있어"], "images":["https://cdn.crowdpic.net/detail-thumb/thumb_d_34984726A089DC33CF72AC20674807C1.jpg"]},
+    label[1] : {"texts" : ["짜장면은 맛있어"], "images":["https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp"]},
+    label[2] : {"texts" : ["짬뽕은 맛있어"], "images":["https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp"]},
+    label[3] : {"texts" : ["탕수육은 맛있어"], "images":["https://i.namu.wiki/i/DQPzlCdDvbadZasufp6VhKSLDPHU4YlA1f9GbY2fP9nMvjNOSE32JZxL_ysj2duhcUtcWo-cGQvO_qS3rXctJw.webp"]},
 # ======================
 # 유틸
 # ======================
