@@ -75,9 +75,9 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
     label[0] : {"texts" : ["중국식 냉면은 맛있어"], "images":[https://cdn.crowdpic.net/detail-thumb/thumb_d_34984726A089DC33CF72AC20674807C1.jpg]},
-    label[1] : {"texts" : ["짜장면은 맛있어"], "images":[https://www.google.com/url?sa=i&url=https%3A%2F%2F8dogam.com%2Fproduct%2F3a4004fdb9ba468a24315e080ea480f1%3Fsrsltid%3DAfmBOopjSLQrbUzgxJYjazJgzJcERis_CTafSLGwaCCv67wjoTlPk_nK&psig=AOvVaw0Fzz4ztYXnwOK3XnVjDslj&ust=1763788692148000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPCAvoa_gpEDFQAAAAAdAAAAABAL]},
-    label[2] : {"texts" : ["짬뽕은 맛있어"], "images":[https://www.google.com/imgres?q=%EC%A7%AC%EB%BD%95&imgurl=https%3A%2F%2Frecipe1.ezmember.co.kr%2Fcache%2Frecipe%2F2023%2F09%2F28%2F508b7b33d78930782020c04e793a1b251.jpg&imgrefurl=https%3A%2F%2Fwww.10000recipe.com%2Frecipe%2F7010631%3Fsrsltid%3DAfmBOoq0ntB_ucpYruhaatZWE8t3EERLx2wBx8pvTdzHuSqYaPt0hW7m&docid=04HWkJr3mc8HKM&tbnid=YG95ojU9bexAHM&vet=12ahUKEwjLuZu7wYKRAxXPka8BHTXzJa0QM3oECBYQAA..i&w=1411&h=1058&hcb=2&ved=2ahUKEwjLuZu7wYKRAxXPka8BHTXzJa0QM3oECBYQAA]},
-    label[3] : {"texts" : ["탕수육은 맛있어"], "images":[https://www.google.com/imgres?q=%ED%83%95%EC%88%98%EC%9C%A1&imgurl=https%3A%2F%2Frecipe1.ezmember.co.kr%2Fcache%2Frecipe%2F2020%2F07%2F05%2F2e0e7c019f283bcc36d34cdee876d15b1.jpg&imgrefurl=https%3A%2F%2Fwww.10000recipe.com%2Frecipe%2F6935781%3Fsrsltid%3DAfmBOorOl63I1swUQCS0D3aeyWiM76F65cUMxND6vHW73b4DISsHIyrG&docid=e38pCARCRIYTsM&tbnid=sGnxQYyANxr7sM&vet=12ahUKEwj9oeHGwYKRAxV0avUHHdzWLY8QM3oECBoQAA..i&w=773&h=579&hcb=2&ved=2ahUKEwj9oeHGwYKRAxV0avUHHdzWLY8QM3oECBoQAA]},
+    label[1] : {"texts" : ["짜장면은 맛있어"], "images":[https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp]},
+    label[2] : {"texts" : ["짬뽕은 맛있어"], "images":[https://i.namu.wiki/i/upNZ7cYsFsAfU0KcguO6OHMK68xC-Bj8EXxdCti61Jhjx10UCBgdK5bZCEx41-aAWcjWZ5JMKFUSaUGLC1tqWg.webp]},
+    label[3] : {"texts" : ["탕수육은 맛있어"], "images":[https://i.namu.wiki/i/DQPzlCdDvbadZasufp6VhKSLDPHU4YlA1f9GbY2fP9nMvjNOSE32JZxL_ysj2duhcUtcWo-cGQvO_qS3rXctJw.webp]},
 # ======================
 # 유틸
 # ======================
